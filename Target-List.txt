@@ -2,6 +2,12 @@ DAFTAR TARGET
 
 - Menguasai Control Version System (CVS)
 - Paham dan tahu akan kegunaan dasar Command Promp, baik di Windows ataupun Linux
-- Menguasai Struktur Data (Bahasa pemograman Python)
+- Menguasai Struktur atau tipe Data (Bahasa pemograman Python)
+  > Tipe Data Primitive (int, string, float, boolean)
+  > Tipe Data Majemuk (List, Tuple, Dictionary, dst.)
 - Paham akan Algoritma pemograman
+  > Problem Solving
+  > Big-O & Time Complexity
+  > Rekursi
+  > Searching & Sorting
 - Bisa berbahasa Inggris 
